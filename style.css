@@ -1,0 +1,20 @@
+.navbar-brand {
+    font-size: 45px;
+}
+
+#city-search {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+#city-date {
+    height: 300px;
+}
+h3 {
+    margin-left: 20px;
+}
